@@ -1,0 +1,25 @@
+body{
+    text-align: center;
+    justify-content: center;
+    
+
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    margin: 2em 0em 2em 0em;
+
+}
+
+#iconBox{
+    border: 1px solid black;
+    align-content: center;
+    
+}
+
+button{
+    border: 1px solid black;   
+    border-radius: 10px;
+}
+
